@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\kokoshkata\IdeaProjects\TestSeleniumNewPC\.idea\compiler.xml" timestamp="1441122145955" />
+    <file path="C:\Users\kokoshkata\IdeaProjects\TestSeleniumNewPC\.idea\copyright\profiles_settings.xml" timestamp="1441122054415" />
+    <file path="C:\Users\kokoshkata\IdeaProjects\TestSeleniumNewPC\.idea\misc.xml" timestamp="1441122145925" />
+    <file path="C:\Users\kokoshkata\IdeaProjects\TestSeleniumNewPC\.idea\modules.xml" timestamp="1441122055599" />
+    <file path="C:\Users\kokoshkata\IdeaProjects\TestSeleniumNewPC\.idea\vcs.xml" timestamp="1441122054421" />
+    <file path="C:\Users\kokoshkata\IdeaProjects\TestSeleniumNewPC\.idea\workspace.xml" timestamp="1442417643242" />
+    <file path="C:\Users\kokoshkata\IdeaProjects\TestSeleniumNewPC\TestSeleniumNewPC.iml" timestamp="1441122145920" />
+  </project-files>
+</conversion>
+
